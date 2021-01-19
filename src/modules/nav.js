@@ -31,7 +31,7 @@ export const nav = `
       <a href="#features" class="nav-link">Features</a>
     </li>
     <li class="nav-item">
-      <a href="blog.blinc.com.ng" class="nav-link">Blog</a>
+      <a href="https://blog.blinc.com.ng/" class="nav-link">Blog</a>
     </li>
   </ul>
   <div class="call-no">

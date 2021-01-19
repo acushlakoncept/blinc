@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/acushlakoncept/blinc/issues"
   },
-  "homepage": "https://blinc.com.ng",
+  "homepage": "https://acushlakoncept.github.io/blinc",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
